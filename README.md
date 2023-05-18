@@ -1,5 +1,13 @@
 ### Hi there 👋
+🔭 I’m currently enrolled in Master's Degree program at Northeastern University.
 
+🌐 Socials:
+
+[![LinkedIn](Users/cherilyogi/Downloads/LinkedIn-Logos/LI-Logo.png)](https://www.linkedin.com/in/yogicheril)
+
+[![Instagram]()]()
+
+Instagram LinkedIn Stack Overflow
 <!--
 **CY2404/CY2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
