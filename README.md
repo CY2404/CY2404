@@ -1,9 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently enrolled in Master's Degree program at Northeastern University.
 
-🌐 Socials:
 
-[![LinkedIn](Users/cherilyogi/Downloads/LinkedIn-Logos/LI-Logo.png)](https://www.linkedin.com/in/yogicheril)
+[![LinkedIn](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png/jcr:content/renditions/01-dsk-e8-v2-2x.pn)](https://www.linkedin.com/in/yogicheril)
 
 [![Instagram]()]()
 
