@@ -1,14 +1,14 @@
 ### Hi there 👋
 🔭 I’m currently enrolled in Master's Degree program at Northeastern University.
 
-🌐 Socials:
+## 🌐 Socials:
 
 
 [![LinkedIn](https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/yogicheril)
 [![Instagram](https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465)]()
 
 
-💻 Tech Stack:
+# 💻 Tech Stack:
 
 [![Java](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)]()
 [![JavaScript](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)]()
@@ -38,7 +38,16 @@
 [![raspberrypi](https://camo.githubusercontent.com/5a19333ccd9cc87637214d3a5c251c8fa43bf4e18ae84b1b4f78d150350a64c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52617370626572727950692d4335314134413f7374796c653d666f722d7468652d6261646765266c6f676f3d5261737062657272792d5069)]()
 [![postman](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)]()
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CY2404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CY2404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CY2404&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CY2404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CY2404&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **CY2404/CY2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
