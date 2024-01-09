@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently enrolled in Master's Degree program at Northeastern University.
+🔭 I’m currently enrolled in Master's Degree program at Northeastern University, with a focus on Data Engineering. 
 
 ## 🌐 Socials:
 
