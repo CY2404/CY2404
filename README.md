@@ -2,7 +2,7 @@
 🔭 I’m currently enrolled in Master's Degree program at Northeastern University, with a focus on Data Engineering, and I'm actively seeking full-time roles anywhere within the US. With over 3 years of industry experience in Data Engineering and Analysis, I thrive on diving into new technologies and expanding my horizons! Currently delving into Generative AI, I'm passionate about designing end-to-end applications. 
 
 ## 🌐 Socials:
-
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:yogi.c@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogicheril) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherilyogi)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@yogi.c)
