@@ -5,8 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogicheril) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherilyogi)
-[![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&amplogoColor=black)](https://medium.com/@yogi.c)
-<a href="https://medium.com/@yogi.c"><img src="https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@yogi.c" alt="Medium Badge"></a>
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@yogi.c)
 
 ## 💻 Tools & Libraries:
 
@@ -67,12 +66,12 @@
 
 | Repository | Description |
 |---|---|
-| [Finnhub-Realtime-Pipeline](https://github.com/piyush-an/Finnhub-Realtime-Pipeline) | Real-Time Trade Analysis Pipeline using Finnhub.io and Spark |
-| [NYC-Restaurant-Inspection](https://github.com/piyush-an/NYC-Restaurant-Inspection) | Data Warehousing Application on NYC Food Inspection |
-| [News-Aggregator](https://github.com/BigDataIA-Summer2022-Team04/News-Aggregator) | Custom news apps deliver tailored content, simplifying access without lengthy browsing |
-| [Image Classification Application](https://github.com/BigDataIA-Summer2022-Team04/Assignment_03) | Image Classification Application for Identifying Defective Manufacturing Products |
-| [TA Coursework Material](https://github.com/piyush-an/DAMG7245-Fall2023) | Detailed tutorial featuring key tools and technologies in Big Data Systems and Intelligence Analytics, from the viewpoint of a Teaching Assistant |
-
+| [Precipitation Prediction](https://github.com/Neural-INFO-6106/PrecipitationPrediction.git) | Real-Time Trade Analysis Pipeline using Finnhub.io and Spark |
+| [Hindi Text Generator](https://github.com/Neural-INFO-6106/HindiTextGenerator.git) | Data Warehousing Application on NYC Food Inspection |
+| [Image Captioning](https://github.com/Neural-INFO-6106/CoCo_Dataset.git) | Custom news apps deliver tailored content, simplifying access without lengthy browsing |
+| [Unified Recognition Model](https://github.com/Neural-INFO-6106/RecognitionModel.git) | Image Classification Application for Identifying Defective Manufacturing Products |
+| [WaveHands](https://github.com/BigDataIA-Spring2023-Team-01/WaveHands.git) | Detailed tutorial featuring key tools and technologies in Big Data Systems and Intelligence Analytics, from the viewpoint of a Teaching Assistant |
+| [Geospatial Data Extraction](https://github.com/BigDataIA-Spring2023-Team-01/Assignment-3.git) | Detailed tutorial featuring key tools and technologies in Big Data Systems and Intelligence Analytics, from the viewpoint of a Teaching Assistant |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CY2404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
