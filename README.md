@@ -25,7 +25,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![ggplot](https://img.shields.io/badge/ggplot-%23276DC3.svg?logo=ggplot&logoColor=white)](https://ggplot2.tidyverse.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-%#3498DB.svg?logo=plotly&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/Plotly-%230077B5.svg?logo=plotly&logoColor=white)]() 
 [![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-%23000071.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)
 
