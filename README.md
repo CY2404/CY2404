@@ -8,8 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&amplogoColor=black)](https://medium.com/@yogi.c)
 <a href="https://medium.com/@yogi.c"><img src="https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@yogi.c" alt="Medium Badge"></a>
 
-# 💻 Tech Stack:
-## Tools & Libraries
+## 💻 Tools & Libraries:
 
 ### Deep Learning Frameworks
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
