@@ -46,7 +46,7 @@
 ### Cloud Platforms
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-%#0089D6.svg?logo=microsoft-azure&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Azure-%230077B5.svg?logo=azure&logoColor=white)]() 
 
 ### Web Development & APIs
 [![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
