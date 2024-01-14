@@ -25,7 +25,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2343B02A.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![ggplot](https://img.shields.io/badge/ggplot-%23276DC3.svg?logo=ggplot&logoColor=white)](https://ggplot2.tidyverse.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-%#3498DB.svg?logo=plotly&logoColor=white)](https://plotly.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-%#3498DB.svg?logo=plotly&logoColor=white)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-%23000071.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)
 
@@ -46,7 +46,7 @@
 ### Cloud Platforms
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-%#0089D6.svg?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Azure](https://img.shields.io/badge/Azure-%#0089D6.svg?logo=microsoft-azure&logoColor=white)]()
 
 ### Web Development & APIs
 [![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
