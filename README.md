@@ -1,11 +1,12 @@
 ### Hi there 👋
-🔭 I’m currently enrolled in Master's Degree program at Northeastern University, with a focus on Data Engineering. 
+🔭 I’m currently enrolled in Master's Degree program at Northeastern University, with a focus on Data Engineering, and I'm actively seeking full-time roles anywhere within the US. With over 3 years of industry experience in Data Engineering and Analysis, I thrive on diving into new technologies and expanding my horizons! Currently delving into Generative AI, I'm passionate about designing end-to-end applications. 
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogicheril) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherilyogi)
-[![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&logoColor=white)](https://medium.com/@yogi.c)
+[![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&logoColor=black)](https://medium.com/@yogi.c)
+<a href="https://medium.com/@yogi.c"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@yogi.c" alt="Medium Badge"></a>
 
 # 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/Java-%23E4405F.svg?logo=Java&logoColor=orange)]()
@@ -36,6 +37,17 @@
 [![terraform](https://camo.githubusercontent.com/79c115f5f7c3c6cd19b8ec09c8e139b061e891a05046cde5d7b9dcd0532d3485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465727261666f726d2d2532333538333543432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465)]()
 [![raspberrypi](https://camo.githubusercontent.com/5a19333ccd9cc87637214d3a5c251c8fa43bf4e18ae84b1b4f78d150350a64c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52617370626572727950692d4335314134413f7374796c653d666f722d7468652d6261646765266c6f676f3d5261737062657272792d5069)]()
 [![postman](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)]()
+
+## My Recent Works:
+
+| Repository | Description |
+|---|---|
+| [Finnhub-Realtime-Pipeline](https://github.com/piyush-an/Finnhub-Realtime-Pipeline) | Real-Time Trade Analysis Pipeline using Finnhub.io and Spark |
+| [NYC-Restaurant-Inspection](https://github.com/piyush-an/NYC-Restaurant-Inspection) | Data Warehousing Application on NYC Food Inspection |
+| [News-Aggregator](https://github.com/BigDataIA-Summer2022-Team04/News-Aggregator) | Custom news apps deliver tailored content, simplifying access without lengthy browsing |
+| [Image Classification Application](https://github.com/BigDataIA-Summer2022-Team04/Assignment_03) | Image Classification Application for Identifying Defective Manufacturing Products |
+| [TA Coursework Material](https://github.com/piyush-an/DAMG7245-Fall2023) | Detailed tutorial featuring key tools and technologies in Big Data Systems and Intelligence Analytics, from the viewpoint of a Teaching Assistant |
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CY2404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
