@@ -37,9 +37,9 @@
 
 ### Database Management
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%#336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%#4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Cassandra](https://img.shields.io/badge/Cassandra-%#1287B1.svg?logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23#336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-%23#4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Cassandra](https://img.shields.io/badge/Cassandra-%23#1287B1.svg?logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
 [![ArangoDB](https://img.shields.io/badge/ArangoDB-%23324988.svg?logo=arangodb&logoColor=white)](https://www.arangodb.com/)
 [![NoSQL](https://img.shields.io/badge/NoSQL-%23182C57.svg)](https://www.example.com/)
 
