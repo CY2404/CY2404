@@ -5,8 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogicheril) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherilyogi)
-[![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&logoColor=black)](https://medium.com/@yogi.c)
-<a href="https://medium.com/@yogi.c"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@yogi.c" alt="Medium Badge"></a>
+[![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&amplogoColor=black)](https://medium.com/@yogi.c)
+<a href="https://medium.com/@yogi.c"><img src="https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@yogi.c" alt="Medium Badge"></a>
 
 # 💻 Tech Stack:
 [![Java](https://img.shields.io/badge/Java-%23E4405F.svg?logo=Java&logoColor=orange)]()
