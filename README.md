@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogicheril) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherilyogi)
-
+[![Medium](https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&logoColor=white)](https://medium.com/@yogi.c)
 
 # 💻 Tech Stack:
 
