@@ -7,6 +7,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cherilyogi)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@yogi.c)
 
+
+## My Recent Works:
+
+| Repository | Description |
+|---|---|
+| [Precipitation Prediction](https://github.com/Neural-INFO-6106/PrecipitationPrediction.git) | ConvLSTM model to predict to effect of Lake Michigan on Traverse City's precipitation |
+| [Hindi Text Generator](https://github.com/Neural-INFO-6106/HindiTextGenerator.git) | A sequence-to-sequence model trained on the "Story of Mirabai" dataset, leveraging IndicNLP for language processing tasks |
+| [Image Captioning](https://github.com/Neural-INFO-6106/CoCo_Dataset.git) | An image captioning system using a Recurrent Neural Network (RNN) by leveraging pre-trained transfer values from a VGG16 model for image feature extraction  |
+| [Unified Recognition Model](https://github.com/Neural-INFO-6106/RecognitionModel.git) | An integrated gender and emotion recognition model through training on a diverse dataset of 58,000 images |
+| [WaveHands](https://github.com/BigDataIA-Spring2023-Team-01/WaveHands.git) | An innovative web application using streamlit to enhance communication accessibility for the hearing-impaired community |
+| [Geospatial Data Extraction](https://github.com/BigDataIA-Spring2023-Team-01/Assignment-3.git) | Developed modular and scalable data exploration tool using Streamlit, FastAPI, Docker, and Airflow |
+
+
 ## 💻 Tools & Libraries:
 
 ### Deep Learning Frameworks
@@ -61,17 +74,6 @@
 ### Image Processing & Computer Vision
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23#5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
 
-
-## My Recent Works:
-
-| Repository | Description |
-|---|---|
-| [Precipitation Prediction](https://github.com/Neural-INFO-6106/PrecipitationPrediction.git) | ConvLSTM model to predict to effect of Lake Michigan on Traverse City's precipitation |
-| [Hindi Text Generator](https://github.com/Neural-INFO-6106/HindiTextGenerator.git) | A sequence-to-sequence model trained on the "Story of Mirabai" dataset, leveraging IndicNLP for language processing tasks |
-| [Image Captioning](https://github.com/Neural-INFO-6106/CoCo_Dataset.git) | An image captioning system using a Recurrent Neural Network (RNN) by leveraging pre-trained transfer values from a VGG16 model for image feature extraction  |
-| [Unified Recognition Model](https://github.com/Neural-INFO-6106/RecognitionModel.git) | An integrated gender and emotion recognition model through training on a diverse dataset of 58,000 images |
-| [WaveHands](https://github.com/BigDataIA-Spring2023-Team-01/WaveHands.git) | An innovative web application using streamlit to enhance communication accessibility for the hearing-impaired community |
-| [Geospatial Data Extraction](https://github.com/BigDataIA-Spring2023-Team-01/Assignment-3.git) | Developed modular and scalable data exploration tool using Streamlit, FastAPI, Docker, and Airflow |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CY2404&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
