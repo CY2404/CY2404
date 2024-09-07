@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently enrolled in Master's Degree program at Northeastern University, with a focus on Data Engineering, and I'm actively seeking full-time roles anywhere within the US. With over 3 years of industry experience in Data Engineering and Analysis, I thrive on diving into new technologies and expanding my horizons! Currently delving into Generative AI, I'm passionate about designing end-to-end applications. 
+🔭 I’m recently graduaated with Master's Degree in Information Systems from Northeastern University, with a focus on Data Engineering, and I'm actively seeking full-time roles anywhere within the US. With over 5 years of industry experience in Data Engineering and Analysis, I thrive on diving into new technologies and expanding my horizons! Currently delving into Generative AI, I'm passionate about designing end-to-end applications. 
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:yogi.c@northeastern.edu)
