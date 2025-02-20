@@ -1,5 +1,7 @@
 ### Hi there 👋
-🔭 I recently graduated with Master's Degree in Information Systems from Northeastern University, with a focus on Data Engineering, and I'm actively seeking full-time roles anywhere within the US. With over 5 years of industry experience in Data Engineering and Analysis, I thrive on diving into new technologies and expanding my horizons! Currently delving into Generative AI, I'm passionate about designing end-to-end applications. 
+🔭 I am an aspiring Data Scientist , currently  working as Data Science Intern at The Commons XR. I am passionate about developing scalable AI-driven solutions, predictive analytics models, and cloud-based ML architectures. My expertise lies in deep learning, NLP, and time-series forecasting, with a strong focus on end-to-end model development, real-time data processing, and cloud-based MLOps.
+
+With experience in TensorFlow, PyTorch, Scikit-Learn, and XGBoost, I specialize in building and optimizing machine learning models for large-scale data applications. I have worked on projects involving automated text generation, engagement prediction models, and real-time analytics, leveraging Databricks, Apache Airflow, and distributed computing for high-performance processing.
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:yogi.c@northeastern.edu)
